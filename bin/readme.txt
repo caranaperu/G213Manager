@@ -1,1 +1,1 @@
-This is a build for 63 bit lunx tested only in ubuntu 14.04, let me know if works on other distribution.
+This is a build for 64 bit linux tested only in ubuntu 14.04, let me know if works on other distribution.
