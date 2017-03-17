@@ -17,10 +17,10 @@ on the directory installed, and also need to be executable
 
 Where options are :
 
--c <color>              Set selected color for 5 areas
--c<n> <color>           Set selected color for n area can be any number between 1 and 5 (i.e -c1)
--x <speed>              Set cycle animation with a speed indicated in milliseconds
--b <color> <speed>      Set breathe animation with the specified color and the speed in milliseconds
+-c <color>              Set selected color for 5 areas<br>
+-c<n> <color>           Set selected color for n area can be any number between 1 and 5 (i.e -c1)<br>
+-x <speed>              Set cycle animation with a speed indicated in milliseconds<br>
+-b <color> <speed>      Set breathe animation with the specified color and the speed in milliseconds<br>
 
 * Color is a hex encoded color in the format RRGGBB
   i.e. ff0000 is red, 00ff00 is green and so on
