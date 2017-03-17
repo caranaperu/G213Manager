@@ -16,6 +16,7 @@ g213Manager <options>
 on the directory installed, and also need to be executable
 
 Where options are :
+
 -c <color>              Set selected color for 5 areas
 -c<n> <color>           Set selected color for n area can be any number between 1 and 5 (i.e -c1)
 -x <speed>              Set cycle animation with a speed indicated in milliseconds
